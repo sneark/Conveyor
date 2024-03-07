@@ -1,4 +1,7 @@
-#Conveyor
+Conveyor
+
+Wygląd okna aplikacji: (https://github.com/sneark/Conveyor/assets/99653016/ae5ded7e-b0fd-402e-8ef6-451dce3332db)
+
 1. Temat projektu: 
 On the conveyor system moving bricks from the lower end to the upper 
 end, laborers are at work. One crew posiƟons bricks onto the conveyor at 
